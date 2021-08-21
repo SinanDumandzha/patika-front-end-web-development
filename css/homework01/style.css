@@ -1,0 +1,62 @@
+h1 {
+  text-align: center;
+  color: crimson;
+  font-size: xx-large;
+}
+
+h2 {
+  text-align: center;
+  color: darkmagenta;
+  font-size: larger;
+}
+
+h3 {
+  text-align: center;
+  color: darkorange;
+  font-size: large;
+}
+
+a {
+  text-decoration: none;
+  color: indianred;
+}
+
+.navbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  margin-bottom: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 25%;
+  text-align: center;
+}
+
+.center-item {
+  justify-content: center;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+.items-center {
+  margin: 0px;
+  display: inline-block;
+}
+
+.product-img,
+.contacts-img {
+  width: 500px;
+}
+
+.price {
+  font-style: italic;
+  font-weight: bolder;
+}
