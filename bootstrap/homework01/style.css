@@ -1,0 +1,21 @@
+.carousel-item > img {
+  height: 85vh;
+}
+
+.carousel-caption > h5,
+.carousel-caption p {
+  color: black !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+h6,
+i {
+  color: white;
+}
