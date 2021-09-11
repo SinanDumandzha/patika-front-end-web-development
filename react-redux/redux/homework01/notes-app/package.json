@@ -1,5 +1,5 @@
 {
-  "name": "redux-odev1-notesapp",
+  "name": "notesapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
