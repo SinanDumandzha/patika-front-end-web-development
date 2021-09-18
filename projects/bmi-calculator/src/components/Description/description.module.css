@@ -1,0 +1,18 @@
+.descriptionBox {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.description {
+  padding: 2rem;
+  border: 5px solid rgb(145, 194, 82);
+  min-width: 50vw;
+  width: 50%;
+  font-weight: 500;
+}
+
+.description img {
+  width: 40vw;
+}
